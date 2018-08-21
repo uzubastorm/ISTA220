@@ -1,8 +1,0 @@
-1. if one table doesnt have the elements needed, join the table to create more
-2. joins the matching tables
-3. all from one table
-4. multiplies the rows
-5. outer has one join, cross has one from, and inner has 3 
-6. multiple join conditions
-7. first query counts all the rows while the second query only counts the orderid
-8. not in orderdate
