@@ -1,0 +1,9 @@
+1.  assignment operators that can be used to modify the value of an existing variable
+2. +=, -=, *=, /=, %=, <<=, >>=, &=, |=
+3.
+4. as long as some statements remain true
+5. the loop does not run
+6. 3 (initialization, Boolean expression, and code). yes, you can omit any of them. 
+7. make sure the expression evaluates as true 
+8. exits the loop and continues at the first statement that follows the loop
+9. causes the program to perform the next iteration of the loop
