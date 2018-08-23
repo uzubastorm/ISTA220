@@ -1,8 +1,8 @@
 1. A reponse to an exceptional circumstance that arises while a program is running
 2. they all run, one after the other
 3. the program will terminate
-4. 
-5.
-6.
-7.
+4. it reports to the user
+5. System Exception, traps every possible except that can occur
+6. property will tell type of error
+7. Allows calculations to overflow slightly
 8. a block of statements that are always executed
