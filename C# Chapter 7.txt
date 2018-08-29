@@ -1,0 +1,12 @@
+1. a blueprint of specific objects/ class arranges information
+2. to combine methods and data within a class (supports classifaction) / to control the accessibility of the methods and data. (control the use of class)
+3. use "new"
+4. private
+5. (Circle)//default constructor
+6. Instance field and methods = every object as another object while class field and methods contains only one object
+7. static using statements
+8. unnamed variable
+9. the ability of objects of different types to provide a unique interface for different implementations of methods
+10. run time bound
+11. SIMULA 67
+12. Russian Computer Programmer, wrote c++ template
