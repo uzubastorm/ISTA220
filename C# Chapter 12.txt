@@ -1,0 +1,12 @@
+1. it uses one to change all
+2. baseclass
+3. 
+4. the Derived class will not exist
+5.
+6. 
+7. No. A reference to a derived class must refer to an instance of the derived class 
+8.  use to provide the same name with different methods
+9. method that allows you to call different versions of the same method
+10. invoke functions that have the same signatures that belong to different classes
+11. add methods to existing types without creating a new derived type
+12. quickly extend the type without affecting the code

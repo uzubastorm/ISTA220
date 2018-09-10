@@ -1,0 +1,8 @@
+1. As an Index
+2. On the Heap
+3. On the Heap 
+4. it depends
+5. executes a block of code on each element in an array or a collection of items
+6. clone an array
+7. Array of Arrays in faster but multidimensional array is much neater
+8. use 2 nested loops

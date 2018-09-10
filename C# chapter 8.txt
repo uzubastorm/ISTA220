@@ -1,0 +1,12 @@
+1. shallow copy is creating a new object and copying the non-static fields while deep copy creates new objects and copies in the nonstatic fields
+2. give a small piece of memory
+3. give it an int
+4. give it something to reference
+5. you cannot assign null to a value type 
+6. no you cannot assign a nullable to a non-nullable
+7. stack is used static memory location while heap is used for dynamic memory allocation
+8. we can use system.object to create a varible that can refer to any reference type
+9. passes the references to the arguments instead of copying them
+10. makes the parameter an alias
+11. boxing is changing a value type to the type object while unboxing extracts the value type from the object
+12.  a value is converted from one data type to another

@@ -1,0 +1,9 @@
+1. enum Ranks {Fuzzy, Private, PFC, Specialist}
+2. Ranks.Specialist
+3. 0,1,2,3
+4. enum.type
+5. they are kept on the stack 
+6.  Struct DOD
+	{ Army, Marine, Navy, Air force }
+7. expectation that the constructor would be called when it wouldn't
+8. an object-oriented assembly language, and is entirely stack-based
