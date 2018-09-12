@@ -1,0 +1,13 @@
+1. params keyword
+
+2. call it inside parentheses
+
+3. its illegal in c#
+
+4. 0 and up
+
+5. yes
+
+6. one takes a fixed number and the other doesnt
+
+7. public static void method (paramsobject[])
